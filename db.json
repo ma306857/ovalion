@@ -1,11 +1,10 @@
 {
   "All": {
-
     "Toulon": {
       "Description": {
         "name": "Toulon",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Toulon.png",
-        "Information": "Le Rugby club toulonnais est un club de rugby à XV français basé à Toulon (Var) et actuellement présidé par Mourad Boudjellal. L'équipe première, entraînée par Patrice Collazo, évolue en Top 14 depuis 2008 et dispute selon les années la Coupe d'Europe ou le Challenge européen.",
+        "Information": "Le Rugby club toulonnais est un club de rugby à XV français basé à Toulon (Var)",
       	"Classement" : "12"
       },
       "Match": {
@@ -117,7 +116,7 @@
         "name": "Clermont",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Clermont.png",
         "Stade": " Stade Marcel-Michelin",
-        "Information": "L'ASM Clermont Auvergne, anciennement AS Montferrand, est un club de rugby à XV français basé à Clermont-Ferrand et actuellement présidé par Éric de Cromières3. L'équipe première est entraînée par le Français Franck Azéma à partir de 2014 après huit saisons sous la houlette du Néo-Zélandais Vern Cotter, et évolue dans le Top 14 et dispute la Coupe d'Europe",
+        "Information": "L'ASM Clermont Auvergne, anciennement AS Montferrand, est un club de rugby à XV français basé à Clermont-Ferrand",
       	"Classement" : "1"
       },
       "Match": {
@@ -224,7 +223,7 @@
       "Description": {
         "name": "Stade-francais",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Stade-francais.png",
-        "Information": "Le Stade français Paris rugby est un club de rugby à XV français basé à Paris. Il est issu de la fusion des sections rugby des clubs omnisports parisiens du Stade français et du CASG Paris (Club athlétique des sports généraux), en 1995",
+        "Information": "Le Stade français Paris rugby est un club de rugby à XV français basé à Paris",
         "Classement" : "2"
       },
       "Match": {
@@ -335,7 +334,7 @@
         "name": "Lyon",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Lyon.png",
         "Stade": " Stade de Gerland",
-        "Information" : "Le Lyon olympique universitaire, couramment abrégé en LOU, est la section de rugby à XV du club omnisports du même nom. Le Racing Club de Lyon est fondé en 1896. Il devient le Lyon olympique universitaire en 1901.",
+        "Information" : "Le Lyon olympique universitaire, couramment abrégé en LOU.",
         "Classement" :"3"
       },
       "Match": {
@@ -446,7 +445,7 @@
       "Description": {
         "name": "Montpellier",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Montpellier.png",
-        "Information": "Le Montpellier Hérault rugby est un club de rugby à XV français domicilié à Montpellier et actuellement présidé par Mohed Altrad. L'équipe première, entraînée par Vern Cotter depuis juillet 2017, évolue en Top 14 depuis 2003 et dispute selon les années la Coupe d'Europe ou le Challenge européen.",
+        "Information": "Le Montpellier Hérault rugby est un club de rugby à XV français domicilié à Montpellier.",
         "Classement" : "4"
       },
       "Match": {
@@ -554,7 +553,7 @@
       "Description": {
         "name": "Castres",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Castres.png",
-        "Information": "Le Castres olympique est un club français de rugby à XV situé à Castres. Le club est créé en 1906.",
+        "Information": "Le Castres olympique est un club français de rugby à XV situé à Castres.",
         "Classement" : "5"
       },
       "Match": {
@@ -662,7 +661,7 @@
       "Description": {
         "name": "Toulouse",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Toulouse.png",
-        "Information": "Le Stade toulousain est un club omnisports français domicilié à Toulouse dont la section principale est celle du rugby à XV",
+        "Information": "Le Stade toulousain est un club omnisports français domicilié à Toulouse",
         "Classement": "6"
       },
       "Match": {
@@ -768,7 +767,7 @@
       "Description": {
         "name": "Racing-92",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Racing-92.png",
-        "Information": "Le Racing 92, anciennement Racing Métro 92 (jusqu'au 10 juin 2015), est un club de rugby à XV français issu de la volonté des clubs omnisports parisiens du Racing Club de France (créé en 1882) et de l'US Métro (créé en 1928) de fonder, en 2001, une nouvelle section professionnelle conjointe.",
+        "Information": "Le Racing 92, anciennement Racing Métro 92",
         "Classement" : "7"
       },
       "Match": {
@@ -874,7 +873,7 @@
       "Description": {
         "name": "Bordeaux-Begles",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Bordeaux-Begles.png",
-        "Information": "L'Union Bordeaux Bègles est un club de rugby à XV français, né de la fusion en 2006 du Stade bordelais université club et du Club athlétique béglais qui est appelé dans un premier temps l'Union Stade bordelais - CA Bordeaux-Bègles-Gironde ou USBCABBG",
+        "Information": "L'Union Bordeaux Bègles est un club de rugby à XV français",
         "Classement" : "8"
       },
       "Match": {
@@ -980,7 +979,7 @@
       "Description": {
         "name": "La Rochelle",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/La-rochelle.png",
-        "Information": "Le Stade rochelais est un club français de rugby à XV professionnel, fondé en 1898 et basé à La Rochelle. Le club évolue depuis la saison 2014-2015 en Top 14, première division professionnelle",
+        "Information": "Le Stade rochelais est un club français de rugby à XV fondé en 1898 et basé à La Rochelle.",
         "Classement" : "9"
       },
       "Match": {
@@ -1086,7 +1085,7 @@
       "Description": {
         "name": "Pau",
         "Logo": "gs://fir-demo-f6a4e.appspot.com/Pau.png",
-        "Information": "La Section paloise est un club de rugby à XV partie intégrante du club omnisports français de la Section paloise, basé à Pau dans les Pyrénées-Atlantiques",
+        "Information": "La Section paloise est un club de rugby à XV partie intégrante du club omnisports français",
         "Classement" : "10"
       },
       "Match": {
